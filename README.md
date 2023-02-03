@@ -10,3 +10,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
 </div>
+
+<h3> :telephone_receiver: &nbsp;Discord: </h3> 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/692040707677880350)](https://discord.com/users/692040707677880350)  
