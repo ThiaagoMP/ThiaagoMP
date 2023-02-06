@@ -14,3 +14,5 @@
 <h3> :telephone_receiver: &nbsp;Discord: </h3> 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/692040707677880350)](https://discord.com/users/692040707677880350)  
+
+[![wakatime](https://wakatime.com/badge/user/0f7a797c-9b05-44ce-8c12-db8dc20ccc51.svg)](https://wakatime.com/@0f7a797c-9b05-44ce-8c12-db8dc20ccc51)
